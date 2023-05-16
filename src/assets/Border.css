@@ -1,0 +1,41 @@
+.combo-box{
+    -fx-background-color: rgb(18,18,18);
+    -fx-border-color: white;
+}
+
+.combo-box .list-cell{
+    -fx-text-fill: white;
+}
+
+.combo-box .list-view .list-cell {
+    -fx-background-color: rgb(18,18,18);
+    -fx-text-fill: white;
+}
+
+.button{
+    -fx-background-color: rgb(60,60,60);
+    -fx-border-radius: 20;
+    -fx-background-radius: 20;
+    -fx-text-fill: white;
+    -fx-border-color: white;
+}
+
+.label{
+    -fx-text-fill: white;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: transparent;
+}
+
+.tab {
+    -fx-background-color: rgb(30,30,30);
+}
+
+.tab-label {
+    -fx-text-fill: white;
+}
+
+.scroll-pane .viewport {
+    -fx-background-color: transparent;
+}
